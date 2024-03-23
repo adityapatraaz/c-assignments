@@ -15,7 +15,7 @@ This repository contains a collection of C programs developed as part of college
 ## Usage/Examples
 1.Clone this repository to your local machine:
 ```bash
-  git clone https://github.com/adityapatraaz/college-c-programs.git
+  git clone [https://github.com/adityapatraaz/college-c-programs.git](https://github.com/adityapatraaz/c-assignments)
 ```
 2.Navigate to the directory containing the program you want to run.
 3.Compile the program using a C compiler such as GCC:
